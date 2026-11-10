@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Luis Valladolid 👋
 
-<!--
-**luisvalladolid/luisvalladolid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software engineer · Automation & data specialist**
 
-Here are some ideas to get you started:
+I build practical software and automated workflows that connect tools, reduce manual work, and help people make better use of data. My work spans web development, APIs, AI automation, and business systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+
+- 🔐 [Selective Packet Encryption (SPES)](https://github.com/luisvalladolid/spes) — thesis project exploring authenticated encryption for real-time video streaming with AES-256-GCM.
+- 🤖 [n8n RAG Chatbot Assistant](https://github.com/luisvalladolid/N8N-RAG-Chatbot-Assistant) — a retrieval-augmented chatbot workflow.
+- 🔄 [n8n Lead Nurturing](https://github.com/luisvalladolid/N8N-Lead-Nurturing) — an automation project focused on lead nurturing.
+- 🎵 [Collaborative Music Playing System](https://github.com/luisvalladolid/collaborative-music-playing-system) — a full-stack application using Django and React.
+- 🥊 [Street Fighter in Python](https://github.com/luisvalladolid/Street-Fighter-In-Python-Pygame) — a fighting game built with Python and Pygame.
+- 🌐 [Portfolio website](https://github.com/luisvalladolid/lmvalladolid-website) — a personal website project.
+
+## Tools and interests
+
+**Development:** Python, JavaScript, Java, SQL, React, Node.js  
+**Automation and data:** n8n, Airtable, Make, HubSpot, APIs  
+**Interests:** AI applications, workflow automation, cybersecurity, and building useful products
+
+## Connect
+
+[Website](https://luis-valladolid-systems.luissvallaa.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/luisvalladolid/) · [Iron Dominion](https://iron-dominion.netlify.app/)
