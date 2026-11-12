@@ -11,7 +11,7 @@ I build practical software and automated workflows that connect tools, reduce ma
 - 🔄 [n8n Lead Nurturing](https://github.com/luisvalladolid/N8N-Lead-Nurturing) — an automation project focused on lead nurturing.
 - 🎵 [Collaborative Music Playing System](https://github.com/luisvalladolid/collaborative-music-playing-system) — a full-stack application using Django and React.
 - 🥊 [Street Fighter in Python](https://github.com/luisvalladolid/Street-Fighter-In-Python-Pygame) — a fighting game built with Python and Pygame.
-- 🌐 [Portfolio website](https://github.com/luisvalladolid/lmvalladolid-website) — a personal website project.
+- 🌐 [Luis Valladolid Systems](https://github.com/luisvalladolid/luis-valladolid-systems) — landing page for my automation, data, and software services. [Visit the live site](https://luis-valladolid-systems.luissvallaa.chatgpt.site/).
 
 ## Tools and interests
 
